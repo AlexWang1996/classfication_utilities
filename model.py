@@ -1,10 +1,16 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+__author__ = 'Alex Wang'
+
+
+
 from load_image import *
-import tensorflow as tf#
+import tensorflow as tf
 # import vgg16
 from xception import *
 import os
+
+
 data_path = '/home/wsf/sources/tensorflow-image-detection/training_dataset/'
 train_logs_dir = './train_log'
 val_logs_dir = './val_log'
