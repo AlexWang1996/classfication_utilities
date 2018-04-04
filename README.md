@@ -1,4 +1,4 @@
-# tfrecords_datasets_split(author Alex Wang)
+# tfrecords_datasets_split
 
 
 These scrips help users split the trainning and testing(or called validation) datasets in TensorFlow or Keras
